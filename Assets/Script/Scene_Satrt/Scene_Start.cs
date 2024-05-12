@@ -24,7 +24,7 @@ public class Scene_Start : MonoBehaviour
     [SerializeField] AudioClip audioClip_Click;
     [SerializeField] AudioClip audioClip_BackMusic;
 
-    public static PulishFor polishFor = PulishFor.Myket;
+    public static PulishFor polishFor = PulishFor.Bazar;
 
     // Start is called before the first frame update
     void Start()
