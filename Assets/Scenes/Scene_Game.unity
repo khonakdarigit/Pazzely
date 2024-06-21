@@ -559,7 +559,7 @@ GameObject:
   - component: {fileID: 235785616}
   - component: {fileID: 235785615}
   - component: {fileID: 235785614}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Btn_Restet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2058,7 +2058,7 @@ GameObject:
   - component: {fileID: 816036053}
   - component: {fileID: 816036055}
   - component: {fileID: 816036054}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2199,7 +2199,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 25
+  m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: -1
@@ -2578,7 +2578,7 @@ GameObject:
   - component: {fileID: 929509906}
   - component: {fileID: 929509908}
   - component: {fileID: 929509907}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text - RTLTMP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3363,7 +3363,7 @@ GameObject:
   - component: {fileID: 1119081354}
   - component: {fileID: 1119081353}
   - component: {fileID: 1119081352}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3710,7 +3710,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: -1283169171
-  m_SortingOrder: 0
+  m_SortingOrder: -2
   m_TargetDisplay: 0
 --- !u!224 &1229098406
 RectTransform:
@@ -4227,6 +4227,18 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 2021241830}
     m_Modifications:
+    - target: {fileID: 340450917851704031, guid: ef22eca0227198745894f782fa904021, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905786022946978140, guid: ef22eca0227198745894f782fa904021, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5828884892335986936, guid: ef22eca0227198745894f782fa904021, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5991222234977981047, guid: ef22eca0227198745894f782fa904021, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -4287,6 +4299,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7620285559839324078, guid: ef22eca0227198745894f782fa904021, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8374386235061385670, guid: ef22eca0227198745894f782fa904021, type: 3}
       propertyPath: ColliderDragSize
       value: 0.8
@@ -4294,6 +4310,10 @@ PrefabInstance:
     - target: {fileID: 8517330335948318699, guid: ef22eca0227198745894f782fa904021, type: 3}
       propertyPath: m_Name
       value: P4_ 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8517330335948318699, guid: ef22eca0227198745894f782fa904021, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8517330335948318699, guid: ef22eca0227198745894f782fa904021, type: 3}
       propertyPath: m_IsActive
@@ -4787,7 +4807,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1545899758}
   - component: {fileID: 1545899759}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: SafeArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5198,7 +5218,7 @@ GameObject:
   - component: {fileID: 1641706407}
   - component: {fileID: 1641706409}
   - component: {fileID: 1641706408}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Panel_Actions
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5506,6 +5526,18 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 2021241830}
     m_Modifications:
+    - target: {fileID: 340450917851704031, guid: 80f04e8d040a3ee4187169b774f2e351, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905786022946978140, guid: 80f04e8d040a3ee4187169b774f2e351, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5828884892335986936, guid: 80f04e8d040a3ee4187169b774f2e351, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5991222234977981047, guid: 80f04e8d040a3ee4187169b774f2e351, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -5562,6 +5594,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7620285559839324078, guid: 80f04e8d040a3ee4187169b774f2e351, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8374386235061385670, guid: 80f04e8d040a3ee4187169b774f2e351, type: 3}
       propertyPath: ColliderDragSize
       value: 0.8
@@ -5569,6 +5605,10 @@ PrefabInstance:
     - target: {fileID: 8517330335948318699, guid: 80f04e8d040a3ee4187169b774f2e351, type: 3}
       propertyPath: m_Name
       value: P4_ 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8517330335948318699, guid: 80f04e8d040a3ee4187169b774f2e351, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8517330335948318699, guid: 80f04e8d040a3ee4187169b774f2e351, type: 3}
       propertyPath: m_IsActive
@@ -5748,7 +5788,7 @@ Canvas:
   m_GameObject: {fileID: 1684356354}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
+  m_RenderMode: 0
   m_Camera: {fileID: 679899785}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -5756,7 +5796,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 25
+  m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 100
@@ -5910,7 +5950,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 7.32, y: -41.450012}
+  m_AnchoredPosition: {x: 7.32, y: -41.44995}
   m_SizeDelta: {x: 2409.48, y: 533.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1784585059
@@ -6562,7 +6602,7 @@ GameObject:
   - component: {fileID: 1954772864}
   - component: {fileID: 1954772863}
   - component: {fileID: 1954772862}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Btn_Close
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6783,7 +6823,7 @@ GameObject:
   - component: {fileID: 2021241830}
   - component: {fileID: 2021241832}
   - component: {fileID: 2021241831}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Panel_Puzzle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7148,7 +7188,7 @@ Canvas:
   m_GameObject: {fileID: 4522569971789749367}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
+  m_RenderMode: 0
   m_Camera: {fileID: 679899785}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
